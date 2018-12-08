@@ -16,7 +16,7 @@ int main(int liczba_slow, char * tablica_slow[]) {
         wynik += potega_x / silnia;
     }
 
-    printf("sin: = %lf", wynik);
+    printf("sin: = %lf\n", wynik);
 
     return 0;
 }
